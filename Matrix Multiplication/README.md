@@ -17,8 +17,10 @@
 (1) Introduction to Python Programming (https://openstax.org/details/books/introduction-python-programming) for assistance with list, lists of lists (pg 243), reading files (pg 347), NumPy and Pandas (pg 359).
 
 (2) Python for Data Analysis, 3E (https://wesmckinney.com/book) for assistance with Arrays and Vectorized Computation, Plotting and Visualization, and Time Series.
+
  
 *All sources are credited below, are also marked within the code as follows: "## Source(#)"*
+
 (3) Generative AI - Chat GPT as credited below. I prompted, "How can I remove the left-most default column from my data frame" and was given this code in response, "print(dataFrame.to_string(index=False))".
 
 (4) W3 Schools for assistance with data frames (https://www.w3schools.com/python/pandas/pandas_dataframes.asp) and representing infinity (https://www.geeksforgeeks.org/python/python-infinity/).
